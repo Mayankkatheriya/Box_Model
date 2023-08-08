@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-weight: 600;
+}
+.container {
+    width: 40%;
+    border: 2px solid red;
+    margin: 8% auto;
+    padding: 15px 10px 0px 10px;
+}
+.heading {
+   border: 2px solid red;
+   padding: 1%;
+   margin-block: 20px;
+}
+.para{
+    border: 2px solid red; 
+    padding: 2%;
+    margin-block: 20px;
+}
+.list{
+    border: 2px solid red;
+    padding: 1%;
+    margin-block: 20px;
+}
+li{
+    border: 2px solid red;
+    padding: 1%;
+}
+.footer{
+    padding-top: 1%;
+    padding-bottom: .5%;
+    margin-top: 10px;
+    margin-block: 20px;
+    /* border: 2px solid red; */
+}
+span{
+    border: 2px solid red;
+    padding: 1%;
+}
+a{
+    border: 2px solid red;
+    padding: 1%;
+}
